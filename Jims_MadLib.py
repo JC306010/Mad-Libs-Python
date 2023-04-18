@@ -1,4 +1,4 @@
-print('Welcome to Jons Mad Libs Program!')
+print('Welcome to Jims Mad Libs Program!')
 first_person = (input('write a name for the first person: '))
 second_person = (input('write a name for the second person: '))
 activity = (input('write an activity: '))
